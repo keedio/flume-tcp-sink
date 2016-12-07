@@ -18,7 +18,7 @@
 
 	<groupId>org.keedio.flume.sink</groupId>
 	<artifactId>flume-tcp-sink</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<packaging>jar</packaging>
 
 	<repositories>
